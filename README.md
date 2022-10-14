@@ -1,6 +1,6 @@
 ### Oi! Me chamo Leonel Barreto 🖖
 
-<p>👨‍🎓 Atualmente estou cursando Desenvolvimento de Software na Cubos Academy</p>
+<p>👨‍🎓 Desenvolvedor Full Stack</p>
 <p>🎓 Sou formado em Relações Internacionais</p>
 
 ##
