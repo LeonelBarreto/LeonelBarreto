@@ -1,6 +1,6 @@
 ### Oi! Me chamo Leonel Barreto 🖖
-
-<p>👨‍🎓 Desenvolvedor Full Stack</p>
+<p>🎓 Análise e Desenvolvimento de Sistemas (em andamento - conclusão 2025)</p>
+<p>🎓 Desenvolvedor Full Stack</p>
 <p>🎓 Sou formado em Relações Internacionais</p>
 
 ##
