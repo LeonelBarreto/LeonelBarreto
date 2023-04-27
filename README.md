@@ -1,33 +1,29 @@
-### Oi! Me chamo Leonel Barreto 🖖
-<p>🎓 Análise e Desenvolvimento de Sistemas (em andamento - conclusão 2025)</p>
-<p>🎓 Desenvolvedor Full Stack</p>
-<p>🎓 Sou formado em Relações Internacionais</p>
+<h1 align="left">Olá, visitante. Seja muito bem-vindo! 👋</h1>
 
-##
+###
 
-### Tecnologias em Desenvolvimento
-<div style="display: inline_block"><br>
-  <img align="center" alt="Leo-HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
-  <img align="center" alt="Leo-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
-  <img align="center" alt="Leo-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
-  <img align="center" alt="Leo-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Leo-PostgreSQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg">
-  <img align="center" alt="Leo-NodeJS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
-  <img align="center" alt="Leo-AdobexD" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xd/xd-plain.svg">
-  <img align="center" alt="Leo-Figma" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg">
-  <img align="center" alt="Leo-Ps" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg">
-  <img align="center" alt="Leo-Illustrator" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg">
-</div>
+- 👨‍💻 Product Manager/Owner pela [Alura](https://www.alura.com.br/)
+- 👨‍💻 Desenvolvedor Full Stack pela [Cubos Academy](https://cubos.academy/)
+- 👨‍💻 Monitor Full Stack na [Cubos Academy](https://cubos.academy/)
+- 🎓 Estudante de Análise e Desenvolvimento de Sistemas pela [Faculdade Descomplica](https://descomplica.com.br/)
 
-##
+---
 
-### Redes Sociais
+<p align="left">
+<img src="https://github-readme-stats.vercel.app/api?username=LeonelBarreto&show_icons=true&theme=dark" alt="my github stats" width="420"/>&nbsp;<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeonelBarreto&layout=compact&theme=dark" alt="languages" height="165">
+</p>
 
-<div>
-  <a href="https://www.linkedin.com/in/leonel-barreto-%E2%88%B4-6b5aa047/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  <a href="https://twitter.com/LeonelBarretoA" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a> 
-  <a href="https://www.instagram.com/leonelbarretoa/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href="https://open.spotify.com/user/22wzzltsnryvwwpzgjkbuviya" target="_blank"><img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" target="_blank"></a>
-  <a href="https://discord.gg/934234395341103144" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
- 	<a href = "mailto:leonelbarretoa@yahoo.com.br"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> 
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![Insomnia](https://img.shields.io/badge/Insomnia-black?style=for-the-badge&logo=insomnia&logoColor=5849BE) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+
+###
+
+### Estou sempre disponível para conversar e ouvir propostas. É só chamar! ⬇️
+  
+<div align="center">
+  <a href="https://www.linkedin.com/in/leonel-barreto/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=flat" height="28" alt="linkedin logo"  />
+  </a>
+  <a href="leonelbarreto.lba@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=flat" height="28" alt="gmail logo"  />
+  </a>
 </div>
