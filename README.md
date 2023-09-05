@@ -3,7 +3,6 @@
 ###
 
 - 👨‍💻 Associate Intern na [IBM](https://ibm.com/)
-- 👨‍💻 Monitor Full Stack na [Cubos Academy](https://cubos.academy/)
 - 🎓 Desenvolvedor Full Stack pela [Cubos Academy](https://cubos.academy/)
 - 🎓 Estudante de Análise e Desenvolvimento de Sistemas pela [Faculdade Descomplica](https://descomplica.com.br/)
 
