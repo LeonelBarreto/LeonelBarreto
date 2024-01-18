@@ -2,8 +2,9 @@
 
 ###
 
-- 👨‍💻 Associate Intern na [IBM](https://ibm.com/)
-- 🎓 Estudante de Análise e Desenvolvimento de Sistemas pela [Faculdade Descomplica](https://descomplica.com.br/)
+- 👨‍💻 Associate Intern como Desenvolvedor de Software na [IBM](https://ibm.com/)
+- 🎓 Cursando Tecnólogo em Análise e Desenvolvimento de Sistemas pela [Faculdade Descomplica](https://descomplica.com.br/)
+- 🎓 Cursando Pós-Graduação em Product Management pela [Faculdade Descomplica](https://descomplica.com.br/)
 
 ---
 
