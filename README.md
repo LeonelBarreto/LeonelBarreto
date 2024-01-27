@@ -1,6 +1,6 @@
 <h1 align="left">Olá, visitante. 👋</h1>
 
-Se você chegou até aqui, seja bem-vindo. Peço desculpas por o github não está com movimentação, mas na empresa que trabalho eu não uso o Github. 
+Se você chegou até aqui, seja bem-vindo. Peço desculpas por o github não estar com movimentação, mas na empresa que trabalho eu não uso o Githube e atualmente o foco tem sido todo no projeto que atuo. 
 
 ###
 
